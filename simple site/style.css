@@ -1,0 +1,48 @@
+body{
+  background: #87CEEC;
+  color: white;
+}
+
+div{
+  margin: auto;
+  border: 5px solid #48CD30;
+  width: 600px;
+  margin-top: 30px;
+
+}
+h1{
+  margin-top: 50px;
+  height: 40px;
+  text-align: center;
+  font-style: italic;
+  font-weight: 200px;
+  font-size: 30px;
+
+}
+h2{
+  height: 30px;
+  margin: 30px;
+  font-family: sans-serif;
+}
+h3{
+  height: 30px;
+  text-align: center;
+  font-family: sans-serif;
+  font-size: 16px
+}
+p{
+  border-left: 20px;
+  margin: 30px;
+}
+span{
+  color: black;
+}
+a{
+  color: #48CD30;
+}
+img{
+  width: 180px;
+  float: right;
+  margin-left: 20px;
+  margin-right: 20px;
+}
